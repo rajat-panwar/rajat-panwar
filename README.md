@@ -4,6 +4,7 @@
 - Current project :
     - [Hisaab Kitaab - using Svelte (WIP) ](https://rajat-panwar.github.io/unleash-svelte/)
 - Current Tech Stack :
+    - [ReactJs](https://react.dev/)    
     - [Nextjs](https://nextjs.org/)
     - [emotion - styling](https://emotion.sh/docs/introduction)
     - [jest - unit testing](https://jestjs.io/) and [react-testing-library](https://testing-library.com/)
