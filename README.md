@@ -2,6 +2,7 @@
 - I’m interested in developing user friendly and interactive web application.
 - I’m currently working on micro-frontend architecture
 - Current project :
+    - [Tic-tac-toe](https://tic-tac-toe-react-swart-kappa.vercel.app/)
     - [Hisaab Kitaab - using Svelte (WIP) ](https://rajat-panwar.github.io/unleash-svelte/)
 - Current Tech Stack :
     - [ReactJs](https://react.dev/)    
